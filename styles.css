@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.container h1 {
+    color: #343a40;
+}
+
+#countryResults {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 50px;
+}
